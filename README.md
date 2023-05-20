@@ -1,7 +1,1 @@
-allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
-  
+chao mung ban 
